@@ -1,3 +1,14 @@
+## 🗓️ My 9-Month Fast-Track
+
+| Phase | Timeline     | Status |
+|-------|--------------|--------|
+| 1. Embedded C & Electronics    | Months 1–2 | ✗ |
+| 2. C++ OOP & RTOS              | Months 3–4 | ✗ |
+| 3. Embedded Linux & Drivers    | Months 5–6 | ✗ |
+| 4. Safety-Critical & Security  | Months 7–8 | ✗ |
+| 5. Toolchain & Workflow        | Months 8–9 | ✗ |
+| 6. Clearance Prep & Portfolio  | Month 9    | ✗ |
+
 # Embedded Systems Engineering Roadmap
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/stargazers)
